@@ -26,3 +26,11 @@ powershell -ExecutionPolicy Bypass -File .\build.ps1
 构建脚本会运行核心与界面测试，生成 `dist\自律伴侣.exe`，并验证打包后的程序。只想从源码启动时，安装依赖后运行 `.\.venv\Scripts\python.exe main.py`。
 
 本版测试环境、结果和验证范围见[验收报告](验收报告.md)。Python、Qt 和其他依赖的许可见[第三方软件声明](THIRD_PARTY_NOTICES.md)。
+
+## 支持项目
+
+如果「自律伴侣」帮到了你，欢迎通过支付宝或微信扫码打赏。感谢你的支持！
+
+| 支付宝 | 微信 |
+| :---: | :---: |
+| <img src="assets/sponsors/alipay.jpg" alt="支付宝收款码" width="220"> | <img src="assets/sponsors/wechat.jpg" alt="微信收款码" width="220"> |
